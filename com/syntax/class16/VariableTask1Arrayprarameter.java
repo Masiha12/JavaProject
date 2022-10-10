@@ -1,5 +1,7 @@
 package com.syntax.class16;
 
+import com.sun.source.tree.EnhancedForLoopTree;
+
 public class VariableTask1Arrayprarameter {
 
 
@@ -10,18 +12,29 @@ public class VariableTask1Arrayprarameter {
    */
 
 
-   static int sum(int [] arr){
-        int sum=0;
-       for(int i=0; i<arr.length;i++){
-        sum+=arr[i];
-       }
-       return sum;
+    static int sum(int[] arr) {
+        int sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            sum += arr[i];
+        }
+        return sum;
     }
 
     public static void main(String[] args) {
-        VariableTask1Arrayprarameter ob=new VariableTask1Arrayprarameter();
-        int [] arry={ 30,50,80,100 };
+        VariableTask1Arrayprarameter ob = new VariableTask1Arrayprarameter();
+        int[] arry = {30, 50, 80, 100};
 
         System.out.println(sum(arry));
     }
+//EnhancedForLoop
+    int sumArray(int[] arr) {
+        int sum = 0;
+        for (int num : arr) {
+            sum += num;
+        }
+        return sum;
+    }
+
+
+
 }

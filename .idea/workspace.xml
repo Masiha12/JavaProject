@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dcde498-be7d-4831-8586-2d25630778bb" name="Changes" comment="" />
+    <list default="true" id="0dcde498-be7d-4831-8586-2d25630778bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/com/syntax/GroupStudy/GroupClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/ReviewClasses/ReviewSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/ReviewClasses/ReviewShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/ReviewClasses/ReviewTeacherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/ReviewClasses/ReviwObjectDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/class16/VariableTask2Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/class16/VariableTask3vowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/class17/ConstractClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/class17/ConstracterEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/class17/ConstracterPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/syntax/class16/VariableTask1Arrayprarameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/syntax/class16/VariableTask1Arrayprarameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/Replit/Rep89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/Replit/Rep89.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,18 +57,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_opened_file_path": "C:/Users/Masiha Abdullah/IdeaProjects/JavaBasics",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Masiha Abdullah/IdeaProjects/JavaBasics&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.MetodsTasks7grade">
     <configuration name="HondaBike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class15.HondaBike" />

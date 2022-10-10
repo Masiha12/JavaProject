@@ -7,12 +7,10 @@ public class Rep89 {
 		
 		//Create a String "name" and assign the value "Timmy" to it. 
 		//- Find out how many characters are there in the given String. 
-		
-		
-		
-		
-		String str="Timmy";
-	    System.out.println(str.length());
+
+
+		// str="Timmy";
+	 //   System.out.println(str.length());
 
 	}
 
