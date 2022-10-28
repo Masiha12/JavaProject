@@ -11,21 +11,21 @@ public class HWConstTask2Student {
       Your program should print an average mark of each students name.
 NOTE: please use different names for instance and local variables.
      */
-    String name;
+    String studentName;
     double subj1;
     double subj2;
     double subj3;
 
 
     HWConstTask2Student(String studentName, double sub1, double sub2,double sub3){
-        name=studentName;
+        studentName=studentName;
         subj1=subj1;
        subj2=subj2;
         subj3=subj3;
 
     }
     void calculatePrintAvgGrade(){
-        System.out.println(name+" "+(subj1+subj2+subj3)/3);
+        System.out.println(studentName+" "+(subj1+subj2+subj3)/3);
 
     }
 

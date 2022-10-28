@@ -1,0 +1,41 @@
+what is an Object?
+	Everything around us is an object for example keyboard, mouse, glass, etc.
+	Objects can be defined based on how they look and how they behave. Objects in computer programming are also
+	very similar. They have state(which helps us define how that object looks like) and behaviours (what that object
+	does)
+What is class:
+	Class is blueprint/design/template from which we create the objects.
+
+Object oriented programming:
+	Is just a way of writing programs.
+Why we should learn OOP?
+	1)It simplify the development of large programs.
+	2)It will also help us maintain and modify the existing code.
+	3)It helps use write more secure code
+	4)It helps us avoid duplicate code.
+What is the syntax?
+
+
+WHat is Object Oriented Programming(OOP):
+	OOP is just a way of writing code. There are other ways as well like
+	functional programming.
+Why we should learn about OOP?
+	1)It helps us maintain and modify the code easily.
+	2)It helps us write more secure code.
+	3) Simplify the development of large programs.
+	4)It helps us reduce duplicate code in our programs.
+
+Main pillars of OOP
+	1)Classes and objects.
+	2)Inheritance.
+	3)Polymorphism.
+	4)Abstraction.
+	5)Encapsulation.
+Classes and Objects?
+	A class is a template/Blueprint from which we create the objects.
+	An Object in programming is very similar to the objects that we have in real life.
+Object:
+	Objects have states that defines how the object looks like. we define the states with the help
+	of Attributes/properties/fields inside a class.
+	Objects can also have behaviours(Things that object can do). We use methods to define these
+	behaviuors.
