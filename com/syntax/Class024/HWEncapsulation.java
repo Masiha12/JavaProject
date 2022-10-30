@@ -16,11 +16,16 @@ public class HWEncapsulation {
         ArrayList<String> names = new ArrayList<>();
 
         names.add("Masiha");
-        names.add("Maliha");
-        names.add("seemeen");
-        names.add("Sonam");
+        names.add("Aisha");
+        names.add("Sarah");
+        names.add("Masouda");
         names.add("Khaterah");
         System.out.println(names);
+        if(names.isEmpty()){
+            System.out.println("Name can not be empty");
+        }else{
+            System.out.println("Name is empty.please try again");
+        }
         System.out.println(names.contains("Masiha"));
         System.out.println(names.size());
         for (String Name: names) {
